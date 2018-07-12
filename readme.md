@@ -1,0 +1,2 @@
+this is snake game created using graphic array of monitor using turbo c.
+the game has infinte levels generated using random fuctions . the game is fully fuctional and is designed using procedural programming.
